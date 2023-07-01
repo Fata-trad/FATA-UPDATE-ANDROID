@@ -1,6 +1,8 @@
 CurrentVersion=2.2
 [Version=2.2]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/SystemMessageData.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/mod_patch.manifest
 [Version=2.0]
  
   
@@ -9,3 +11,8 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/mod_patc
 
  
 [Version=1.7]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/ui_images
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/MOV_introFD.mp4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/MOV_chapter_Req3_re.mp4
