@@ -1,6 +1,7 @@
 CurrentVersion=2.2
 [Version=2.2]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/SystemMessageData.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/FatamoruAndroidTestFinal.apk
 [Version=2.0]
  
   
