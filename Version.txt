@@ -9,6 +9,5 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/SystemMe
 
  
 [Version=1.7]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/ui_images
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/MOV_introFD.mp4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/MOV_chapter_Req3_re.mp4
