@@ -1,6 +1,6 @@
 CurrentVersion=2.19
 [Version=2.19]
-
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-Sinato.apk
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_seventh.mp4
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_SeventhEnd.mp4
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_seventhFakeEnd.mp4
