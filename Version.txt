@@ -1,5 +1,5 @@
-CurrentVersion=2.23
+CurrentVersion=2.2
 [Version=2.23]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
-[Version=2.2]
+[Version=2.19]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/fuckoff.txt
