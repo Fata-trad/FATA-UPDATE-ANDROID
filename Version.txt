@@ -1,2 +1,10 @@
-CurrentVersion=2.2
-[Version=2.3]
+CurrentVersion=2.22
+[Version=2.22]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage4
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_fr
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_en
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_en.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_fr
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_fr.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
