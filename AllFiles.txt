@@ -16,6 +16,7 @@
 /TextAsset/ChapterMenuData.txt
 /TextAsset/ConcertHallData.txt
 /TextAsset/fgimage_size_info.txt
+/TextAsset/yoffset_data.txt
 /TextAsset/LanguageData.txt
 /TextAsset/MenuFontData.txt
 /TextAsset/MesWinFontData.txt
