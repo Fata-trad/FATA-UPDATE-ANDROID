@@ -1,4 +1,4 @@
-CurrentVersion=2.28
+CurrentVersion=1
 [Version=2.28]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage4
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage4.manifest
