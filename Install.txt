@@ -3,3 +3,4 @@
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/Install/Data.zip
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/Install/Data2.zip
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/Install/Movie.zip
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/Install/TextAsset.zip
