@@ -1,4 +1,6 @@
-CurrentVersion=2.31
+CurrentVersion=2.32
+[Version=2.32]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 [Version=2.31]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_intro.mp4
 [Version=2.3]
