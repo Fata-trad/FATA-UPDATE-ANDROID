@@ -23,6 +23,7 @@
 /TextAsset/NameTagFontData.txt
 /TextAsset/SystemMessageData.txt
 /TextAsset/Version.txt
+/TextAsset/PATCHNOTE.txt
 /AssetBundles/Android/bgimage
 /AssetBundles/Android/bgimage.manifest
 /AssetBundles/Android/bgimage2
