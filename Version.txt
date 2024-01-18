@@ -1,4 +1,16 @@
-CurrentVersion=2.32
+CurrentVersion=2.392
+[Version=2.392]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_old
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_old.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/yoffset_data.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ConcertHallData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.392.apk
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_fr
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_fr.manifest
 [Version=2.32]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 [Version=2.31]
