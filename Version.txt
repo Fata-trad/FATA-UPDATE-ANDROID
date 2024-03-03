@@ -1,4 +1,6 @@
-CurrentVersion=2.392
+CurrentVersion=2.393
+[Version=2.393]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/MesWinFontData.txt
 [Version=2.392]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_old
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_old.manifest
