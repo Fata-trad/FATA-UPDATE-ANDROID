@@ -1,5 +1,5 @@
-CurrentVersion=2.395
-[Version=2.395]
+CurrentVersion=2.396
+[Version=2.396]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_staffroll_rein.mp4.meta
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_staffroll_rein.mp4
 [Version=2.393]
