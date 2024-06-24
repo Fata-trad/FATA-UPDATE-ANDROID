@@ -1,5 +1,6 @@
-CurrentVersion=2.394
-[Version=2.394]
+CurrentVersion=2.395
+[Version=2.395]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_staffroll_rein.mp4.meta
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_staffroll_rein.mp4
 [Version=2.393]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/MesWinFontData.txt
