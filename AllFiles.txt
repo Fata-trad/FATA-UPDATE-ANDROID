@@ -12,6 +12,7 @@
 /movie_fullHD/MOV_seventhFakeEnd.mp4
 /movie_fullHD/MOV_staffroll_main.mp4
 /movie_fullHD/MOV_staffroll_rein.mp4
+/movie_fullHD/MOV_staffroll_rein.mp4.meta
 /TextAsset/bgimage_size_info.txt
 /TextAsset/ChapterMenuData.txt
 /TextAsset/ConcertHallData.txt
