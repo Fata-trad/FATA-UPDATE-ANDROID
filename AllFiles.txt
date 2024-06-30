@@ -25,6 +25,8 @@
 /TextAsset/SystemMessageData.txt
 /TextAsset/Version.txt
 /TextAsset/PATCHNOTE.txt
+/AssetBundles/Android/particles
+/AssetBundles/Android/particles.manifest
 /AssetBundles/Android/bgimage_old
 /AssetBundles/Android/bgimage_old.manifest
 /AssetBundles/Android/bgimage
