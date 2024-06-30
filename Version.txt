@@ -1,4 +1,7 @@
-CurrentVersion=2.396
+CurrentVersion=2.397
+[Version=2.397]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
 [Version=2.396]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_staffroll_rein.mp4.meta
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_staffroll_rein.mp4
