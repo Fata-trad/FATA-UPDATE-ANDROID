@@ -43,6 +43,7 @@
 /AssetBundles/Android/bgimage_fr.manifest
 /AssetBundles/Android/bgimage_jp
 /AssetBundles/Android/bgimage_jp.manifest
+/AssetBundles/Android/bgimage_ru
 /AssetBundles/Android/bgimage_ru.manifest
 /AssetBundles/Android/bgimage_sc
 /AssetBundles/Android/bgimage_sc.manifest
