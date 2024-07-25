@@ -1,4 +1,6 @@
-CurrentVersion=2.6
+CurrentVersion=2.601
+[Version=2.601]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
 [Version=2.6]
 
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/LanguageData.txt
