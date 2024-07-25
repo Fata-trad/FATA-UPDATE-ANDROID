@@ -25,7 +25,6 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_intro.mp4
 [Version=2.3]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ChapterMenuData.txt
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.3.apk
 [Version=2.29]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage4
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage4.manifest
