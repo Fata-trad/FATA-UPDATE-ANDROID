@@ -1,4 +1,4 @@
-CurrentVersion=2.397
+CurrentVersion=2.1
 [Version=2.397]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
