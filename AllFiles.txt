@@ -4,7 +4,10 @@
 /movie_fullHD/MOV_config_effect.mp4
 /movie_fullHD/MOV_DeadEndRoll.mp4
 /movie_fullHD/MOV_intro.mp4
+/movie_fullHD/MOV_intro_fr.srt
+/movie_fullHD/MOV_intro_it.srt
 /movie_fullHD/MOV_introFD.mp4
+/movie_fullHD/MOV_introFD_it.srt
 /movie_fullHD/MOV_intro_ru.mp4
 /movie_fullHD/MOV_phena.mp4
 /movie_fullHD/MOV_seventh.mp4
@@ -45,6 +48,8 @@
 /AssetBundles/Android/bgimage_jp.manifest
 /AssetBundles/Android/bgimage_ru
 /AssetBundles/Android/bgimage_ru.manifest
+/AssetBundles/Android/bgimage_it
+/AssetBundles/Android/bgimage_it.manifest
 /AssetBundles/Android/bgimage_sc
 /AssetBundles/Android/bgimage_sc.manifest
 /AssetBundles/Android/bgimage_tc
