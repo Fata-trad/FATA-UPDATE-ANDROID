@@ -46,7 +46,6 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_intro_fr.srt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/movie_fullHD/MOV_intro_it.srt
 
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.6.apk
 [Version=2.397]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
