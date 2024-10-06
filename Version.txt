@@ -1,4 +1,4 @@
-CurrentVersion=1.603
+CurrentVersion=2.61
 [Version=2.61]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.61.apk
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
