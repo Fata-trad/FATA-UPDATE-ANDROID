@@ -11,7 +11,6 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.603.apk
 [Version=2.601]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
 [Version=2.6]
