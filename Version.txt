@@ -1,4 +1,4 @@
-CurrentVersion=2.603
+CurrentVersion=1.603
 [Version=2.603]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
