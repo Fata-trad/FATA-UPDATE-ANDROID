@@ -1,16 +1,18 @@
-CurrentVersion=2.61
-[Version=2.61]
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.61.apk
+CurrentVersion=2.62
+[Version=2.62]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgmseventh
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgmseventh.manifest
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
-[Version=2.603]
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.611.apk
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ConcertHallData.txt
+[Version=2.61]
+
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgmseventh
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgmseventh.manifest
+
+
 [Version=2.601]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
 [Version=2.6]
@@ -21,14 +23,7 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/Men
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/NameTagFontData.txt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ChapterMenuData.txt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
 
-
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
-
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
 
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/ui_images
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/ui_images.manifest
