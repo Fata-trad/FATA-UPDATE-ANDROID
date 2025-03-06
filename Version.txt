@@ -1,4 +1,12 @@
-CurrentVersion=2.62
+CurrentVersion=2.81
+[Version=2.81]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_fr
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_fr.manifest
 [Version=2.62]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
