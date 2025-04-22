@@ -1,4 +1,4 @@
-CurrentVersion=2.811
+CurrentVersion=1
 [Version=2.811]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.8.apk
 [Version=2.81]
