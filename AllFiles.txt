@@ -50,6 +50,8 @@
 /AssetBundles/Android/bgimage_ru.manifest
 /AssetBundles/Android/bgimage_it
 /AssetBundles/Android/bgimage_it.manifest
+/AssetBundles/Android/bgimage_ar
+/AssetBundles/Android/bgimage_ar.manifest
 /AssetBundles/Android/bgimage_sc
 /AssetBundles/Android/bgimage_sc.manifest
 /AssetBundles/Android/bgimage_tc
@@ -64,6 +66,10 @@
 /AssetBundles/Android/lyrics_en.manifest
 /AssetBundles/Android/lyrics_fr
 /AssetBundles/Android/lyrics_fr.manifest
+/AssetBundles/Android/lyrics_it
+/AssetBundles/Android/lyrics_it.manifest
+/AssetBundles/Android/lyrics_ar
+/AssetBundles/Android/lyrics_ar.manifest
 /AssetBundles/Android/lyrics_jp
 /AssetBundles/Android/lyrics_jp.manifest
 /AssetBundles/Android/lyrics_sc
