@@ -1,21 +1,28 @@
-CurrentVersion=1
-[Version=2.811]
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.8.apk
-[Version=2.81]
+CurrentVersion=2.85
+[Version=2.85]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.85.apk
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/LanguageData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/MesWinFontData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/MenuFontData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/NameTagFontData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ChapterMenuData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_ar
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_ar.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_it
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_it.manifest
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_ar
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_ar.manifest
+[Version=2.81]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_fr
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage_fr.manifest
 [Version=2.62]
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch.manifest
 
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ConcertHallData.txt
 [Version=2.61]
 
@@ -23,8 +30,7 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgmseventh.manifest
 
 
-[Version=2.601]
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
+
 [Version=2.6]
 
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/LanguageData.txt
