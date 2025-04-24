@@ -1,6 +1,7 @@
-CurrentVersion=1
-[Version=2.851]
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.851.apk
+CurrentVersion=2.852
+[Version=2.852]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.852.apk
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
 [Version=2.85]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/particles.manifest
