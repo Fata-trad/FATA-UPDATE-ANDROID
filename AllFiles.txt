@@ -28,6 +28,7 @@
 /TextAsset/SystemMessageData.txt
 /TextAsset/Version.txt
 /TextAsset/PATCHNOTE.txt
+/TextAsset/ArtGalleryData.txt
 /AssetBundles/Android/particles
 /AssetBundles/Android/particles.manifest
 /AssetBundles/Android/bgimage_old
@@ -111,3 +112,4 @@
 /movie_fullHD/Chapter/mov_reverse/MOV_chapter_rein_re.mp4
 /movie_fullHD/Chapter/mov_reverse/MOV_chapter_Req3_re.mp4
 /movie_fullHD/Chapter/mov_reverse/MOV_chapter_Req_re.mp4
+
