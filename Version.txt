@@ -1,4 +1,4 @@
-CurrentVersion=10
+CurrentVersion=1
 [Version=2.852]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V2.852.apk
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
@@ -119,4 +119,5 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_fr.manifest
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
+
 
