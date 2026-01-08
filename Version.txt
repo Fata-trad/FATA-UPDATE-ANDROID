@@ -1,4 +1,6 @@
-CurrentVersion=1.0
+CurrentVersion=4.1
+[Version=4.1]
+https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V4.1.apk
 [Version=4.0]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ArtGalleryData.txt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/bgimage_size_info.txt
@@ -12,8 +14,6 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/Nam
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/PATCHNOTE.txt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/yoffset_data.txt
-
-https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/APK/FatamoruAndroid-V4.0.apk
 
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage4
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/bgimage4.manifest
@@ -162,6 +162,7 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_fr.manifest
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
+
 
 
 
