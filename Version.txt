@@ -1,4 +1,4 @@
-CurrentVersion=4.0
+CurrentVersion=1.0
 [Version=4.0]
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/ArtGalleryData.txt
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/bgimage_size_info.txt
@@ -162,6 +162,7 @@ https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/lyrics_fr.manifest
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE-ANDROID/releases/download/TextAsset/SystemMessageData.txt
+
 
 
 
